@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	for( int i = 1; i > 0; i++ )
+        {
+            cout << "Podaj liczbe: ";
+            cin >> i ;
+        }
+	if (liczba = 3)
+	{
+	cout << "nieparzysta: ";
+	}
+	
+	system ("pause"); 
+	return 0;
+}
